@@ -10,6 +10,12 @@ import code.barryyan.proto.HelloRequest;
 import code.barryyan.proto.HelloResponse;
 import code.barryyan.proto.HelloServiceGrpc;
 
+/**
+ * @author  : YanMingxin
+ * @email   : 1712229564@qq.com
+ * @time    : 2023/3/4 19:20:12
+ */ 
+ 
 public class ServerClazz {
 
     private final int SERVER_PORT = 50051;
