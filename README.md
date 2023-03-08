@@ -1,12 +1,10 @@
 ## 《玩转gRPC框架》专栏相关demo
 
+有问题可以留言哈~
+
 ### 1 专栏信息
 
-专栏地址：https://blog.csdn.net/mr_yanmingxin/category_12172887.html
-
-专栏目录：
-
-
+地址：https://blog.csdn.net/mr_yanmingxin/category_12172887.html
 
 ### 2 具体Demo列表
 
@@ -25,6 +23,8 @@ JDK1.8+
 Go1.17+
 
 Maven 3.x
+
+etcd 3.x
 
 #### 3.2 具体运行方式
 
