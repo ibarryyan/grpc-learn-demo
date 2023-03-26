@@ -12,7 +12,7 @@
 - [go-grpc-demo](./go-grpc-demo)
 - [java-grpc-demo](./java-grpc-demo)
 - barry_rpc
-- 自定义负载均衡器
+- [barry_lb](./barry_lb)
 
 ### 3 运行环境及方式
 
