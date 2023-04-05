@@ -4,6 +4,8 @@
 
 ### 1 专栏信息
 
+作者：https://blog.csdn.net/Mr_YanMingXin
+E-mail：1712229564@qq.com
 地址：https://blog.csdn.net/mr_yanmingxin/category_12172887.html
 
 ### 2 具体Demo列表
