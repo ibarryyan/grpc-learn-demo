@@ -12,11 +12,13 @@ E-mail：1712229564@qq.com
 
 ### 2 具体Demo列表
 
-- [grpc-etcd](./grpc-etcd)
-- [go-grpc-demo](./go-grpc-demo)
-- [java-grpc-demo](./java-grpc-demo)
-- barry_rpc
-- [barry_lb](./barry_lb)
+- [grpc-etcd](./grpc-etcd)：引入etcd服务注册中心，需要运行etcd
+- [go-grpc-demo](./go-grpc-demo)：Go实现gRPC服务，可以调用Java提供的gRPC服务和为Java客户端提供服务
+- [java-grpc-demo](./java-grpc-demo)：Java实现gRPC服务，可以调用Go提供的gRPC服务和为Go客户端提供服务
+- [go-socket](./go-socket)：Go实现Socket
+- [go-rpc](./go-rpc)：Go实现RPC调用
+- [barry_rpc](./barry_rpc)：动手实现自己的RPC框架（TODO）
+- [barry_lb](./barry_lb)：自定义负载均衡器
 
 ### 3 运行环境及方式
 
